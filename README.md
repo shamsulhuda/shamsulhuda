@@ -1,4 +1,4 @@
-### Hey! Nice to see you 👋
+# Hey! Nice to see you 👋
 
 ![Liquid](https://img.shields.io/badge/Liquid-blue?style=flat-square&logo=liquid&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white)
@@ -20,26 +20,26 @@
 
 Are you looking to enhance your e-commerce store, optimize its performance, or create a stunning Shopify website from scratch? Look no further! I'm a seasoned Shopify developer with a passion for crafting seamless online shopping experiences.
 
-## Services I Offer:
+### Services I Offer:
 
-✨ Custom Shopify Theme Development
-✨ Store Setup and Configuration
-✨ Responsive Design and Mobile Optimization
-✨ App Integration and Customization
-✨ App Development
-✨ Custom App Development
-✨ Performance Tuning for Speed and SEO
-✨ Product Page Enhancement
-✨ Payment Gateway Integration
-✨ Troubleshooting and Bug Fixes
+✨ Custom Shopify Theme Development <br>
+✨ Store Setup and Configuration <br>
+✨ Responsive Design and Mobile Optimization <br>
+✨ App Integration and Customization <br>
+✨ App Development <br>
+✨ Custom App Development <br>
+✨ Performance Tuning for Speed and SEO <br>
+✨ Product Page Enhancement <br>
+✨ Payment Gateway Integration <br>
+✨ Troubleshooting and Bug Fixes <br>
 
-💼 Why Choose Me?
-👉 Proven track record with 5+ years of Shopify development experience.
-👉 I stay updated with the latest e-commerce trends and Shopify updates.
-👉 Committed to delivering projects on time and within budget.
-👉 Client satisfaction is my top priority – I'm not satisfied until you are!
+### Why Choose Me? <br>
+👉 Proven track record with 5+ years of Shopify development experience. <br>
+👉 I stay updated with the latest e-commerce trends and Shopify updates. <br>
+👉 Committed to delivering projects on time and within budget. <br>
+👉 Client satisfaction is my top priority – I'm not satisfied until you are! <br>
 
-Ready to take your Shopify store to the next level? Let's chat and discuss your project. I'm here to turn your e-commerce vision into reality.
+Ready to take your Shopify store to the next level? Let's chat and discuss your project. I'm here to turn your e-commerce vision into reality. <br> <br>
 
-📫 Contact me on [Upwork](https://www.upwork.com/freelancers/~013eddff08e4f509ad)
+📫 Contact me on [Upwork](https://www.upwork.com/freelancers/~013eddff08e4f509ad) <br>
 
