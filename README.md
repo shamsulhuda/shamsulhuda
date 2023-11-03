@@ -1,8 +1,8 @@
 # Hey! Nice to see you 👋
 
-![Liquid](https://img.shields.io/badge/Shopify-Liquid?style=flat-square&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/Shopify-Liquid-67b8de?style=flat-square&logo=shopify&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white)
-![Shopify Plus](https://img.shields.io/badge/Shopify-Plus?style=flat-square&logo=shopify&logoColor=black)
+![Shopify Plus](https://img.shields.io/badge/Shopify-Plus-67b8de?style=flat-square&logo=shopify&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
