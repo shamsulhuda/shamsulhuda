@@ -43,3 +43,11 @@ Ready to take your Shopify store to the next level? Let's chat and discuss your 
 
 📫 Contact me on [Upwork](https://www.upwork.com/freelancers/~013eddff08e4f509ad) <br>
 
+![shamsul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulhuda&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
+### Where to find me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamsul-huda99/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/m_shamsulhuda)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shamsulhuda.cse)
+
