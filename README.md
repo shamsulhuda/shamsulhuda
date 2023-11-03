@@ -1,6 +1,6 @@
 # Hey! Nice to see you 👋
 
-![Liquid](https://img.shields.io/badge/Liquid-blue?style=flat-square&logo=liquid&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-67b8de?style=flat-square&logo=shopifyLiquid&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white)
 ![Shopify Plus](https://img.shields.io/badge/ShopifyPlus-95BF47?style=flat-square&logo=shopify&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -33,7 +33,7 @@ Are you looking to enhance your e-commerce store, optimize its performance, or c
 ✨ Payment Gateway Integration <br>
 ✨ Troubleshooting and Bug Fixes <br>
 
-### Why Choose Me? <br>
+### Why Choose Me?
 👉 Proven track record with 5+ years of Shopify development experience. <br>
 👉 I stay updated with the latest e-commerce trends and Shopify updates. <br>
 👉 Committed to delivering projects on time and within budget. <br>
