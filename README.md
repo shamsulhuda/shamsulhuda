@@ -1,7 +1,7 @@
 ### Hey! Nice to see you 👋
 
-![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=95BF47)
-![Liquid](https://img.shields.io/badge/Liquid-95BF47?style=flat-square&logo=shopify&logoColor=95BF47)
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-95BF47?style=flat-square&logo=shopify&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
