@@ -41,9 +41,9 @@ Are you looking to enhance your e-commerce store, optimize its performance, or c
 
 Ready to take your Shopify store to the next level? Let's chat and discuss your project. I'm here to turn your e-commerce vision into reality. <br> <br>
 
-📫 Contact me on [Upwork](https://www.upwork.com/freelancers/~013eddff08e4f509ad) <br> <br>
+📫 Contact me on [Upwork](https://www.upwork.com/freelancers/~013eddff08e4f509ad) <br>
 
-![Shamsul's Stats](https://github-readme-stats.vercel.app/api?username=shamsulhuda&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=shamsulhuda&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
 ![shamsul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulhuda&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
