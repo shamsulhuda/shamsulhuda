@@ -15,10 +15,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)
 
-Are you looking to enhance your e-commerce store, optimize its performance, or create a stunning Shopify website from scratch? Look no further! I'm a seasoned Shopify developer with a passion for crafting seamless online shopping experiences.
+Are you looking to enhance your e-commerce store, optimize its performance, or create a stunning Shopify website from scratch? Look no further! I'm a seasoned Shopify developer passionate about crafting seamless online shopping experiences.
 
 ### Services I Offer:
 
